@@ -1,6 +1,6 @@
 ## Small Schedule App
 
-* Used technologies:*
+__Used technologies:__
 * Spring
 * Hibernate
 * Bootstrap
